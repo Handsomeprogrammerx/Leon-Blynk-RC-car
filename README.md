@@ -4,7 +4,9 @@ A remote-controlled car which can be operated via a smartphone using the Blynk a
 
 ## Skills Highlighted
 -Logic debugging:  Diagnosed and resolved connection issues with the ESP8266 WiFi module, identified correct motor control pins through systematic testing, and implemented a timer function to ensure non-blocking operation and prevent control interruptions.
+
 -C++ programming: Wrote a custom program through Arduino IDE.
+
 -Hardware tinkering: wiring, component selection, and module interfacing.
 
 ## Status
