@@ -7,9 +7,9 @@
 #define IN4 D4
 #define ENB D2
 
-#define BLYNK_TEMPLATE_ID "TMPL6kiq1Akm7"
-#define BLYNK_TEMPLATE_NAME "RC car"
-#define BLYNK_AUTH_TOKEN "egukkwdZgTtbgkPnvMeP4FpJeqn6-9Eh"
+#define BLYNK_TEMPLATE_ID "Thy template ID"
+#define BLYNK_TEMPLATE_NAME "Thy template name"
+#define BLYNK_AUTH_TOKEN "Thy auth token"
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -17,8 +17,8 @@
 BlynkTimer timer; //This function prevent fundamental process inside esp8266 from outside interupting 
 
 //WiFi name and password
-char ssid[] = "Supin_2.4G"; 
-char pass[] = "0921823285";
+char ssid[] = "Thy WiFi name"; 
+char pass[] = "Thy password";
 //Initial setup 
 int motor_speed = 100;
 bool forward = false;
