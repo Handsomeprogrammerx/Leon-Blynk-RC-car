@@ -1,4 +1,4 @@
-# Leon-Blynk-RC-car
+# Leon's Blynk Blynk RC-car
 A remote-controlled car which can be operated via a smartphone using the Blynk application. Designed for experimentation with wireless control systems and real-time response.
 
 
